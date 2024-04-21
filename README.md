@@ -1,4 +1,3 @@
-```markdown
 # PDF to Excel Converter
 
 This is a simple Node.js script that converts PDF files to Excel files (.xlsx) using the `pdf-to-excel` library.
